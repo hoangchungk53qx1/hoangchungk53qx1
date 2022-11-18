@@ -10,6 +10,7 @@ dependencies:
   http_client_hoc081098:
   http: ^0.13.5
   rxdart_ext: ^0.2.5
+  intl: ^0.17.0
 
 dev_dependencies:
   lints: ^2.0.0
