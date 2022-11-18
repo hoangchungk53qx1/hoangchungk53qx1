@@ -1,8 +1,8 @@
-name: Random quote
+name: Countdown
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day.
+    - cron: '0 2 * * *' # Runs at 02:00 UTC every day.
   workflow_dispatch:
 
 env:
@@ -15,7 +15,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./telegram_random_quotes
+        working-directory: ./countdown
 
     steps:
       - uses: actions/checkout@v3
