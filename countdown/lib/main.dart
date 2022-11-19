@@ -71,8 +71,8 @@ Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương.
 Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm.
 Have a nice day ❤️!
 -------------------
-- This message is sent by a bot ().
-- Source code: [countdown]()
+- This message is sent by a bot (@chungha1698).
+- Source code: [countdown](https://github.com/hoangchungk53qx1/hoangchungk53qx1/tree/main/countdown)
       ''',
           'parse_mode': 'Markdown',
         },

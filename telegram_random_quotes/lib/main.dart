@@ -45,7 +45,7 @@ void main() async {
   // );
   //
   // print('-' * 80);
-
+  //https://api.telegram.org/bot5925161988:AAFP_o60ClRzAQxoUwjklSC42Lphe_KJrwc/getUpdates
   await getQuote(simpleHttpClient)
       .exhaustMap(
         (quote) => Stream.fromIterable(chatIds).asyncExpand(
@@ -87,10 +87,12 @@ Single<void> send({
           'text': '''
 **${quote.quote}** - _${quote.author}_
 Have a nice day ❤️!
+
 Daily meeting  $formattedDate
+
 -------------------
 - This message is sent by a bot (@chungha1698).
-- Source code: [telegram_random_quotes]()
+- Source code: [telegram_random_quotes](https://github.com/hoangchungk53qx1/hoangchungk53qx1/tree/main/telegram_random_quotes)
       ''',
           'parse_mode': 'Markdown',
         },
