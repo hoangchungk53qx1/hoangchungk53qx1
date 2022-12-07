@@ -69,9 +69,15 @@ Single<void> send({
 Còn ${noelDay.difference(now).inDays} ngày nữa là Noel.
 Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương.
 Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm.
+TẾT DƯƠNG LỊCH: 01/01/2023 --> 02/01/2023
+--------------------------------------
+TẾT ÂM LỊCH:  20/01/2023 (tức 29/12/2022 âm lịch) --> 26/01/2023 (tức 05/01/2023 âm lịch)
+--------------------------------------
+Trở lại làm việc bắt đầu từ thứ sáu ngày 27/01/2023.
+
 Have a nice day ❤️!
--------------------
-- This message is sent by a bot ().
+--------------------------------------
+- This message is sent by a bot (https://github.com/hoangchungk53qx1/hoangchungk53qx1).
 - Source code: [countdown]()
       ''',
           'parse_mode': 'Markdown',
