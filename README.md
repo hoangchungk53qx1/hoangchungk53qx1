@@ -38,7 +38,7 @@
 <div> 
   <a href="[https://www.facebook.com/hoangchungk53](https://www.buymeacoffee.com/hoangchung)" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/hoangchungk53qx1/hoangchungk53qx1/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/hoangchungk53qx1/hoangchungk53qx1/blob/main/dist/github-contribution-grid-snake.svg)
                            
 </div>
 
