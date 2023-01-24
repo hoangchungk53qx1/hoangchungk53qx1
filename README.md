@@ -4,25 +4,19 @@
 
   ## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
-<img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
-</div>
-<div align="center">
-<img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
-</div>
-
-  <a href="https://github.com/hoangchungk53qx1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hoangchungk53qx1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
- 
-  <img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-</div>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="170" height="170"/> </a> </p>
+ [![hoangchungk53qx1's github stats](https://github-readme-stats.vercel.app/api?username=hoangchungk53qx1&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/hoangchungk53qx1)
   
 ##
-  
+  ### Skills
+
+[![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")]()
+[![Swift](https://img.shields.io/badge/swift-%23FFac45.svg?&style=for-the-badge&logo=swift&logoColor=white)]()
+[![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")]()
+[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoangchungk53qx1)
+[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)]
+
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="35"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
