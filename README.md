@@ -35,13 +35,14 @@
   <a href="https://www.instagram.com/hoangchungk53qx1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hoangchungk53qx1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-<div> 
-  <a href="[https://www.facebook.com/hoangchungk53](https://www.buymeacoffee.com/hoangchung)" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/hoangchungk53qx1/hoangchungk53qx1/blob/main/dist/github-contribution-grid-snake.svg)
-                           
-</div>
-
+    ### My apps
+  
+  #### Cast to TV & Screen Mirroring
+  
+  [<img src="https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png" alt="You can install the production app via Get it on Google Play" width="256px">](https://play.google.com/store/apps/details?id=com.vn.streamingtv.castscreen)
+  
+  Launching Cast to TV application with features such as transferring images, videos, audio to TV and web browser
+  
 
   <a href="https://github.com/hoangchungk531qx1"><img alt="HoangChung Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hoangchungk53qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
