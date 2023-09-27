@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:http_client_hoc081098/http_client_hoc081098.dart';
 import 'package:http/http.dart' as http;
 import 'package:rxdart_ext/rxdart_ext.dart';
-import 'package:intl/intl.dart';
 
 void main() async {
   final ci = Platform.environment['CI'] == 'true';
@@ -45,7 +44,7 @@ void main() async {
   // );
   //
   // print('-' * 80);
-  //https://api.telegram.org/bot5925161988:AAFP_o60ClRzAQxoUwjklSC42Lphe_KJrwc/getUpdates
+
   await getQuote(simpleHttpClient)
       .exhaustMap(
         (quote) => Stream.fromIterable(chatIds).asyncExpand(
@@ -54,15 +53,15 @@ void main() async {
             quote: quote,
             chatId: chatId,
             botToken: botToken,
-          ),
+          )
+              .doOnError((e, s) => print('Error: $e, Stacktrace: $s'))
+              .onErrorResumeNext(Stream.empty()),
         ),
       )
       .forEach((_) {});
 
   simpleHttpClient.close();
 }
-final now = DateTime.now();
-String formattedDate = DateFormat('kk:mm:ss EEE dd MMM').format(now);
 
 Single<Quote> getQuote(SimpleHttpClient simpleHttpClient) =>
     useCancellationToken(
@@ -87,12 +86,9 @@ Single<void> send({
           'text': '''
 **${quote.quote}** - _${quote.author}_
 Have a nice day ❤️!
-
-Daily meeting  $formattedDate
-
 -------------------
-- This message is sent by a bot (@chungha1698).
-- Source code: [telegram_random_quotes](https://github.com/hoangchungk53qx1/hoangchungk53qx1/tree/main/telegram_random_quotes)
+- This message is sent by a bot (@hoc081098).
+- Source code: [telegram_random_quotes](https://github.com/hoc081098/hoc081098/tree/master/telegram_random_quotes)
       ''',
           'parse_mode': 'Markdown',
         },
