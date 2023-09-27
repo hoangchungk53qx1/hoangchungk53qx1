@@ -87,8 +87,8 @@ Single<void> send({
 **${quote.quote}** - _${quote.author}_
 Have a nice day ❤️!
 -------------------
-- This message is sent by a bot (@hoc081098).
-- Source code: [telegram_random_quotes](https://github.com/hoc081098/hoc081098/tree/master/telegram_random_quotes)
+- This message is sent by a bot
+- Source code: [telegram_random_quotes]
       ''',
           'parse_mode': 'Markdown',
         },
