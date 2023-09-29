@@ -54,9 +54,9 @@ Single<void> send({
 }) =>
     useCancellationToken((cancelToken) {
       final now = DateTime.now();
-      final noelDay = DateTime(2022, 12, 25);
-      final newYearDay = DateTime(2023, 1, 1);
-      final tetHoliday = DateTime(2023, 1, 22);
+      final noelDay = DateTime(2023, 12, 25);
+      final newYearDay = DateTime(2024, 1, 1);
+      final tetHoliday = DateTime(2023, 2, 9);
 
       final uri = Uri.https(
         'api.telegram.org',
@@ -69,12 +69,6 @@ Single<void> send({
 Còn ${noelDay.difference(now).inDays} ngày nữa là Noel.
 Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương.
 Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm.
-TẾT DƯƠNG LỊCH: 01/01/2023 --> 02/01/2023
---------------------------------------
-TẾT ÂM LỊCH:  20/01/2023 (tức 29/12/2022 âm lịch) --> 26/01/2023 (tức 05/01/2023 âm lịch)
---------------------------------------
-Trở lại làm việc bắt đầu từ thứ sáu ngày 27/01/2023.
-
 Have a nice day ❤️!
 --------------------------------------
 - This message is sent by a bot (https://github.com/hoangchungk53qx1/hoangchungk53qx1).
