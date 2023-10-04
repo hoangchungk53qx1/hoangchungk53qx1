@@ -56,7 +56,7 @@ Single<void> send({
       final now = DateTime.now();
       final noelDay = DateTime(2023, 12, 25);
       final newYearDay = DateTime(2024, 1, 1);
-      final tetHoliday = DateTime(2023, 2, 9);
+      final tetHoliday = DateTime(2024, 2, 9);
 
       final uri = Uri.https(
         'api.telegram.org',
