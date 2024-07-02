@@ -16,7 +16,15 @@
 [![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")]()
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoangchungk53qx1)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)]
-
+<p align="center">
+   <code>Visitor count</code>
+   <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
+  
+   <br>
+   <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+   </a>
+  </p>
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="35"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
