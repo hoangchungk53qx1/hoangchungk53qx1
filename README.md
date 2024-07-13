@@ -48,6 +48,5 @@
   
   Launching Cast to TV application with features such as transferring images, videos, audio to TV and web browser
   
-
-  <a href="https://github.com/hoangchungk53qx1"><img alt="HoangChung Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hoangchungk53qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</a>
   
