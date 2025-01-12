@@ -54,9 +54,9 @@ Single<void> send({
 }) =>
     useCancellationToken((cancelToken) {
       final now = DateTime.now();
-      final noelDay = DateTime(2024, 12, 25);
-      final newYearDay = DateTime(2025, 1, 1);
-      final tetHoliday = DateTime(2025, 1, 29);
+      final noelDay = DateTime(2025, 12, 25);
+      final newYearDay = DateTime(2026, 1, 1);
+      final tetHoliday = DateTime(2026, 1, 29);
 
       final uri = Uri.https(
         'api.telegram.org',
