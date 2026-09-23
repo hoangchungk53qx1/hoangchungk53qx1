@@ -96,7 +96,6 @@ I am a mobile developer who builds production apps for **Android (Kotlin / Java)
 I enjoy giving back to the community and regularly contribute to the mobile and Kotlin ecosystem.
 
 - 🐛 Fixing bugs and improving docs in libraries I depend on
-- 🔧 Building small tools and automation, like the [Telegram quote bot](telegram_random_quotes) and [countdown bot](countdown) in this repo
 - 💬 Always happy to review PRs, discuss architecture or pair on an issue
 
 <p>
@@ -142,9 +141,6 @@ I enjoy giving back to the community and regularly contribute to the mobile and 
   </a>
   <a href="https://www.facebook.com/hoangchungk53">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/hoangchungk53qx1/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:hoangchungk53qx1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
