@@ -107,17 +107,6 @@ I enjoy giving back to the community and regularly contribute to the mobile and 
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangchungk53qx1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github&line_height=24" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangchungk53qx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hoangchungk53qx1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
