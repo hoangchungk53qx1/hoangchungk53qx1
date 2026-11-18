@@ -75,21 +75,6 @@ I am a mobile developer who builds production apps for **Android (Kotlin / Java)
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 🚀 Featured App
-
-<table>
-  <tr>
-    <td width="70%">
-      <h3>Cast to TV &amp; Screen Mirroring</h3>
-      <p>Stream photos, videos and audio from your phone straight to a TV or web browser. Built natively for Android with a focus on fast discovery and a stable, low-latency connection.</p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.vn.streamingtv.castscreen">
-        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 🌱 Open Source
 
